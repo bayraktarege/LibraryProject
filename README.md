@@ -9,6 +9,6 @@ Here, I could have manualy exclude the links by spliting the process as many tim
 
 I tried to solve this problem by adding some other keywords to pass on, such as "Buy". Once again it excluded some of the pages with the word "Buy", but left some of them behind for a reason I couldn't understand. After working on this issue one more day, I felt like I needed to change the backbone of my code and maybe write a new one, since I wasn't able to grasp the reason behind the error. Maybe, my HTML knowledge was lacking.
 
-The program was never completed, becuase I was exhausted from two days of constant work on it. When I was back on work, none of the books were free to download anymore. Despite the fact that my program doesn't work, I am still very happy about what I could accomplish after two days of binge-learning, experimenting and coding. Today, this project prooves to me that I can, and I will code in my life.
+The program was never completed, becuase I was exhausted from two days of constant work on it. When I was back on work, none of the books were free to download anymore. Despite the fact that my program didn't work, I am still very happy about what I could accomplish after two days of binge-learning, experimenting and coding. Today, this project prooves to me that I can, and I will code in my life.
 
 Thank you for reading :)
